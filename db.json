@@ -1,0 +1,145 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple iPhone 12",
+      "descr": "The device does not come with headphones or a SIM card. It does include a charger and charging cable that may be generic, in which case it will be UL or Mfi (“Made for iPhone”) Certified. ",
+      "img": "https://m.media-amazon.com/images/I/61KeIxmldLL._AC_UY218_.jpg",
+      "categoriesId": 4,
+      "price": "438.00",
+      "category": "electronics",
+      "type": "mobile"
+    },
+    {
+      "id": 13,
+      "title": "Apple iPhone 11",
+      "descr": "The device does not come with headphones or a SIM card. It does include a charger and charging cable that may be generic, in which case it will be UL or Mfi (“Made for iPhone”) Certified. ",
+      "img": "https://m.media-amazon.com/images/I/71i2XhHU3pL._AC_UY218_.jpg",
+      "categoriesId": 4,
+      "price": "238.00",
+      "category": "electronics",
+      "type": "mobile"
+    },
+    {
+      "id": 14,
+      "title": "Apple iPhone x",
+      "descr": "The device does not come with headphones or a SIM card. It does include a charger and charging cable that may be generic, in which case it will be UL or Mfi (“Made for iPhone”) Certified. ",
+      "img": "https://images-eu.ssl-images-amazon.com/images/I/41-fouhFegL._SX342_SY445_QL70_FMwebp_.jpg",
+      "categoriesId": 4,
+      "price": "338.00",
+      "category": "electronics",
+      "type": "mobile"
+    },
+    {
+      "id": 2,
+      "title": "Seagate Portable 2TB External Hard Drive",
+      "descr": "Easily store and access 2TB of content on the go with the Seagate Portable Drive, a USB external hard drive ",
+      "img": "https://5.imimg.com/data5/XK/AS/MY-25354668/hard-disks-500x500.jpg",
+      "categoriesId": 4,
+      "price": "84.99",
+      "category": "electronics",
+      "type": "harddisk"
+    },
+    {
+      "id": 3,
+      "title": "Fire TV Stick 4K streaming device",
+      "descr": "Watch favorites from Netflix, Disney+, Prime Video, YouTube, Apple TV, Crave, CTV, NHL, Citytv Video, FXNOW Canada, and others. Subscription fees may apply. ",
+      "img": "https://m.media-amazon.com/images/I/51J5fj58VbL._AC_UY218_.jpg",
+      "categoriesId": 4,
+      "price": "70",
+      "category": "electronics",
+      "type": "tv"
+    },
+    {
+      "id": 4,
+      "title": " Cleaning System",
+      "descr": "Pureatic mop bucket adopt advanced self-squeeze technology, provides hands-free washing and keep your hands from dirt. With convenient 2 groove for wet and dry, just only take several seconds wash the mop head in wet",
+      "img": "https://m.media-amazon.com/images/I/61FIZP4EWRL._SY550_.jpg",
+      "categoriesId": 1,
+      "price": "40",
+      "category": "home",
+      "type": "cleaning"
+    },
+    {
+      "id": 12,
+      "title": "Mi 360° Camera 1080P ",
+      "descr": "AI motion detection alert. The camera angle is 110 degree and the connectivity is Wi-Fi IEEE 802.11 b/g/n 2.4 GHz. Storage:MicroSD card (support 16GB -64GB, Class 10 and above storage card)",
+      "img": "https://m.media-amazon.com/images/I/61JM7nC4OKL._SY355_.jpg",
+      "categoriesId": 1,
+      "price": "140",
+      "category": "home",
+      "type": "camera"
+    },
+    {
+      "id": 5,
+      "title": "COSORI Air Fryer",
+      "descr": "Healthier Fried Food - Adopted Air crisp technology which produces 85% less fat than traditional frying methods, but COSORI air fryer delivers.",
+      "img": "https://m.media-amazon.com/images/I/614TSm1LckL._SX425_.jpg",
+      "categoriesId": 1,
+      "price": "136",
+      "category": "home",
+      "type": "freashner"
+    },
+    {
+      "id": 6,
+      "title": "Urbano Fashion ",
+      "descr": "men's dak green printed fir cotton T-shirt ",
+      "img": "https://m.media-amazon.com/images/I/61MOhOlUvdL._AC_UL320_.jpg",
+      "categoriesId": 2,
+      "price": "35",
+      "category": "fashion",
+      "type": "shirt"
+    },
+    {
+      "id": 7,
+      "title": "Laptop Bag",
+      "descr": "Featured in flexible textured Italian PU leather with a cowhide pattern, it offers a water-repellent and scratch-resistant edge, embellished with antique.",
+      "img": "https://m.media-amazon.com/images/I/81MdmvloEkL._AC_UY218_.jpg",
+      "categoriesId": 2,
+      "price": "43",
+      "category": "fashion",
+      "type": "bag"
+    },
+    {
+      "id": 11,
+      "title": "Rayon Yarn Dyed check white Scarf",
+      "descr": "This elegant, beautiful stole / scarf / wrap can sharpen the look of any outfit and works great as a unique and attractive accessory. ",
+      "img": "https://m.media-amazon.com/images/I/81MdmvloEkL._AC_UY218_.jpg",
+      "categoriesId": 2,
+      "price": "65",
+      "category": "fashion",
+      "type": "scarf"
+    },
+    {
+      "id": 8,
+      "title": "The psychology of Money",
+      "descr": "The highly anticipated sequel to the global bestseller 12 Rules for Life.",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41r6F2LRf8L._SX323_BO1,204,203,200_.jpg",
+      "categoriesId": 3,
+      "price": "20",
+      "category": "book",
+      "type": "motivation"
+    },
+    {
+      "id": 9,
+      "title": "The Day the Cancer Quit",
+      "descr": "Against all odds, one man chooses life—this is his remarkable story. This groundbreaking work invites us on a heartfelt journey from tragedy to triumph.",
+      "img": "https://m.media-amazon.com/images/I/91sJ8r9Zd+L._AC_UY218_.jpg",
+      "categoriesId": 3,
+      "price": "23",
+      "category": "book",
+      "type": "stories"
+    },
+    {
+      "id": 10,
+      "title": "Quit Smoking in 30 day's",
+      "descr": "This book will help you day by day remind you are quitting smoking once and for all on a set date. By opening each page each morning .",
+      "img": "https://m.media-amazon.com/images/I/91sJ8r9Zd+L._AC_UY218_.jpg",
+      "categoriesId": 3,
+      "price": "53",
+      "category": "book",
+      "type": "poem"
+    }
+  ],
+  "cart": []
+}
